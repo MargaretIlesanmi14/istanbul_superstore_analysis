@@ -66,13 +66,13 @@ Approximately 44–45% of transactions were paid in cash. This suggests an oppor
 <img width="1208" height="672" alt="image" src="https://github.com/user-attachments/assets/ec05bd3a-a990-4599-bbd4-88b23e2ae9a1" />
 
 ## Skills Demonstrated
-Data Cleaning
-Exploratory Data Analysis
-Data Visualization
-Business Intelligence
-Customer Segmentation
-Trend Analysis
-Power BI Dashboard Development
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Business Intelligence
+- Customer Segmentation
+- Trend Analysis
+- Power BI Dashboard Development
 
 ## Key Takeaways: This project demonstrates how data analytics can be used to:
 - Identify high-value customers
@@ -83,5 +83,5 @@ Power BI Dashboard Development
 
 ## Author
 Toluwani Ilesanmi
-LinkedIn: https://www.linkedin.com/in/margaret-ilesanmi-574285341
-GitHub: https://github.com/MargaretIlesanmi14
+- LinkedIn: https://www.linkedin.com/in/margaret-ilesanmi-574285341
+- GitHub: https://github.com/MargaretIlesanmi14
